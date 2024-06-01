@@ -1,0 +1,113 @@
+1. **Month 1**:
+	- Read The Hindu editorial section daily
+    - QA (Quantitative Aptitude):
+        - [ ] [[CAT/Quantitative Aptitude/Number System|Number System]]
+        - [ ] [[CAT/Quantitative Aptitude/Basic Arithmetic Skills|Basic Arithmetic Skills]]
+        - [ ] [[CAT/Quantitative Aptitude/Geometry and Mensuration Problems|Geometry and Mensuration Problems]]
+        - [ ]  [[CAT/Quantitative Aptitude/Probability|Probability]]
+
+	- Logical Reasoning: 
+		- [ ]  [[CAT/Logical Reasoning/Arrangements|Arrangements]]
+		- [ ] [[CAT/Logical Reasoning/Clock and Calendar|Clock and Calendar]]
+		- [ ] [[CAT/Logical Reasoning/Cubes & Dices]]
+		- [ ] [[CAT/Logical Reasoning/Rankings|Rankings]]
+		- [ ] [[CAT/Logical Reasoning/Assertion & Reason|Assertion & Reason]]
+	- VA:
+	    - [ ] [[CAT/Verbal Aptitude/Grammars|Grammars]]
+	    - [ ] [[CAT/Verbal Aptitude/Grammar Tenses|Grammar Tenses]]
+	    - [ ] [[CAT/Verbal Aptitude/Vocabulary|Vocabulary]]
+	    - [ ] [[CAT/Verbal Aptitude/Verbal Analogies|Verbal Analogies]]
+		- [ ] [[CAT/Verbal Aptitude/Synonyms and Antonyms|Synonyms and Antonyms]]
+        - [ ] [[CAT/Verbal Aptitude/Idioms and Phrases|Idioms and Phrases]]
+        - [ ] [[CAT/Verbal Aptitude/Reading Comprehension|Reading Comprehension]]
+1. **Month 2**:
+    - QA:
+        - [ ] [[CAT/Quantitative Aptitude/Time and Work|Time and Work]]
+        - [ ]  [[CAT/Quantitative Aptitude/Speed, Time and Distance|Speed, Time and Distance]]
+        - [ ] [[CAT/Quantitative Aptitude/Percentage|Percentage]]
+        - [ ] [[CAT/Quantitative Aptitude/Profit and Loss|Profit and Loss]]
+        - [ ] [[CAT/Quantitative Aptitude/Set theory|Set theory]]
+        - [ ] [[CAT/Quantitative Aptitude/Mixtures and Alligations|Mixtures and Alligations]]
+	- VA:
+        - [ ] [[CAT/Verbal Aptitude/Paragraph Problems|Paragraph Problems]]
+        - [ ] [[CAT/Verbal Aptitude/Sentence Correction|Sentence Correction]]
+        - [ ] [[CAT/Verbal Aptitude/Syllogism|Syllogism]]
+        - [ ] [[CAT/Verbal Aptitude/Spotting Errors|Spotting Errors]]
+    - LR:
+        - [ ] [[CAT/Logical Reasoning/Syllogism|Syllogism]]
+        - [ ] [[CAT/Logical Reasoning/Direction Sense Test|Direction Sense Test]]
+        - [ ] [[CAT/Logical Reasoning/Venn Diagrams & Set Theory|Venn Diagrams & Set Theory]]
+        - [ ] [[CAT/Logical Reasoning/Mathematical Operations|Mathematical Operations]]
+        - [ ] [[CAT/Logical Reasoning/Line Graphs and X-Y Charts|Line Graphs and X-Y Charts]]
+2. **Month 3**:
+    - QA:
+        - [ ] [[CAT/Quantitative Aptitude/Simple and Compound Interests|Simple and Compound Interests]]
+        - [ ] [[CAT/Quantitative Aptitude/Progression|Progression]]
+        - [ ] [[CAT/Quantitative Aptitude/Logarithms|Logarithms]]
+        - [ ] [[CAT/Quantitative Aptitude/P&C|P&C]]
+        - [ ] [[CAT/Quantitative Aptitude/Inequalities|Inequalities]]
+        - [ ] [[CAT/Quantitative Aptitude/Equations|Equations]]
+        - [ ] [[CAT/Quantitative Aptitude/Functions|Functions]]
+        - [ ] Practice Test 1
+        - [ ] Practice Test 2
+    - LR:
+        - [ ] [[CAT/Logical Reasoning/Blood Relation|Blood Relation]]
+        - [ ] [[CAT/Logical Reasoning/Quantitative Reasoning|Quantitative Reasoning]]
+        - [ ] [[CAT/Logical Reasoning/Routes & Network|Routes & Network]]
+        - [ ] [[CAT/Logical Reasoning/Team Formations|Team Formations]]
+    - VA:
+        - [ ] [[CAT/Verbal Aptitude/Odd one out|Odd one out]]
+        - [ ] [[CAT/Verbal Aptitude/Verbal Analogies|Verbal Analogies]]
+        - [ ] [[CAT/Verbal Aptitude/Ordering of words|Ordering of words]]
+        - [ ] [[CAT/Verbal Aptitude/Ordering of sentences|Ordering of sentences]]
+        - [ ] [[CAT/Verbal Aptitude/Facts, Inference & Judgement|Facts, Inference & Judgement]]
+3. **Month 4**:
+	- QA:
+		- [ ] [[CAT/Quantitative Aptitude/Miscellaneous|Miscellaneous]]
+		- [ ] Practice Test 3
+		- [ ] Practice Test 4
+	- LR:
+		- [ ] [[CAT/Logical Reasoning/Series|Series]]
+        - [ ] [[CAT/Logical Reasoning/Coding-Decoding|Coding-Decoding]]
+        - [ ] [[CAT/Logical Reasoning/Puzzles|Puzzles]]
+        - [ ] [[CAT/Logical Reasoning/Binary Logic|Binary Logic]]
+        - [ ] [[CAT/Logical Reasoning/Games & Tournaments|Games & Tournaments]]
+        - [ ] [[CAT/Logical Reasoning/Generic Puzzles|Generic Puzzles]]
+        - [ ] [[CAT/Logical Reasoning/Input Output|Input Output]]
+        - [ ] [[CAT/Logical Reasoning/Statement Course of Action|Statement Course of Action]]
+        - [ ] [[CAT/Logical Reasoning/Logical Deduction|Logical Deduction]]
+	- VA:
+		- [ ] [[CAT/Verbal Aptitude/One Word Substitutes|One Word Substitutes]]
+		- [ ] [[CAT/Verbal Aptitude/Selecting Words|Selecting Words]]
+		- [ ] [[CAT/Verbal Aptitude/Phrasal Verbs|Phrasal Verbs]]
+		- [ ] [[CAT/Verbal Aptitude/Cloze Test|Cloze Test]]
+		- [ ] [[CAT/Verbal Aptitude/Sentence Formation|Sentence Formation]]
+		- [ ] [[CAT/Verbal Aptitude/Sentence Improvement|Sentence Improvement]]
+		- [ ] [[CAT/Verbal Aptitude/Completing Statements|Completing Statements]]
+		- [ ] [[CAT/Verbal Aptitude/Sentence Correction|Sentence Correction]]
+4. **Month 5**:
+	- QA:
+		- [ ] Practice Test 5
+		- [ ] Practice Test 6
+    - Complete DI: 
+	    - [ ] [[CAT/Logical Reasoning/Statement and Assumptions|Statement and Assumptions]]
+	    - [ ] [[CAT/Logical Reasoning/Statement and Conclusions|Statement and Conclusions]]
+	    - [ ] [[CAT/Logical Reasoning/Tables|Tables]]
+	    - [ ] [[CAT/Logical Reasoning/Pie-chart|Pie-chart]]
+	    - [ ] [[CAT/Logical Reasoning/Line chart|Line chart]]
+	    - [ ] [[CAT/Logical Reasoning/Bar chart|Bar chart]]
+	    - [ ] [[CAT/Logical Reasoning/Caselets|Caselets]]
+	    - [ ] [[CAT/Logical Reasoning/Data sufficiency|Data sufficiency]]
+	    - [ ] [[CAT/Logical Reasoning/Miscellaneous LRDI|Miscellaneous LRDI]]
+	    - [ ] LRDI Sectional Test 1
+	    - [ ] LRDI Sectional Test 2
+	    - [ ] LRDI Sectional Test 3
+	-  VA:
+		- [ ] VARC Sectional Test - 1
+		- [ ] VARC Sectional Test - 2
+1. **Month 6**:
+    - [ ] Start Revision
+    - [ ] Solve Past Papers and Practice Mock Tests
+    - [ ] Attempt 1 Mock Test Every 2 days
+    - [ ] Analyze the performance in the test
+    - [ ] Revise all concepts
