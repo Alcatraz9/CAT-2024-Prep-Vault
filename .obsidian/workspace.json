@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2c3778b2a81e8f4e",
+        "id": "42f48ff809fc8733",
         "type": "tabs",
         "children": [
           {
-            "id": "ff9edf7a4ef5c4b4",
+            "id": "f58659cb87260d51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,12 +118,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Readme.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -145,8 +138,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff9edf7a4ef5c4b4",
+  "active": "f58659cb87260d51",
   "lastOpenFiles": [
+    "Quantitative Aptitude/Number System.md",
+    "Readme.md",
+    "CAT/Quantitative Aptitude/Basic Arithmetic Skills.md",
+    "CAT/Quantitative Aptitude/Geometry and Mensuration Problems.md",
+    "Quantitative Aptitude/Basic Arithmetic Skills.md",
+    "Quantitative Aptitude/Time and Work.md",
+    "Screenshots/Pasted image 20240601224046.png",
+    "Pasted image 20240601114808.png",
+    "Screenshots/Pasted image 20240601114808.png",
+    "Screenshots/Pasted image 20240529224308.png",
+    "Screenshots/Pasted image 20240529224055.png",
+    "Pasted image 20240529224308.png",
+    "Pasted image 20240529224055.png",
+    "Screenshots",
+    "CAT/Quantitative Aptitude",
+    "CAT",
     "CAT/Readme.md",
     "Verbal Aptitude/Vocabulary.md",
     "Verbal Aptitude/Verbal Analogies.md",
@@ -167,14 +176,8 @@
     "Verbal Aptitude/Idioms and Phrases.md",
     "Verbal Aptitude/Grammars.md",
     "Verbal Aptitude/Grammar Tenses.md",
-    "Verbal Aptitude/Facts, Inference & Judgement.md",
-    "Verbal Aptitude/Completing Statements.md",
-    "Verbal Aptitude/Cloze Test.md",
     "Verbal Aptitude",
-    "Question Bank/Number System.md",
     "Question Bank",
-    "Quantitative Aptitude/Time and Work.md",
-    "Quantitative Aptitude/Speed, Time and Distance.md",
     "Quantitative Aptitude",
     "Logical Reasoning"
   ]
