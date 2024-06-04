@@ -11,8 +11,12 @@
             "id": "f58659cb87260d51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Quantitative Aptitude/Time and Work.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quantitative Aptitude/Time and Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Quantitative Aptitude/Time and Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Quantitative Aptitude/Time and Work.md"
+              }
             }
           }
         ],
@@ -140,6 +148,8 @@
   },
   "active": "f58659cb87260d51",
   "lastOpenFiles": [
+    "Screenshots/Pasted image 20240604094843.png",
+    "Screenshots/Pasted image 20240604093408.png",
     "Quantitative Aptitude/Number System.md",
     "Readme.md",
     "CAT/Quantitative Aptitude/Basic Arithmetic Skills.md",
@@ -175,7 +185,6 @@
     "Verbal Aptitude/Odd one out.md",
     "Verbal Aptitude/Idioms and Phrases.md",
     "Verbal Aptitude/Grammars.md",
-    "Verbal Aptitude/Grammar Tenses.md",
     "Verbal Aptitude",
     "Question Bank",
     "Quantitative Aptitude",
