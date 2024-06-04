@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "42f48ff809fc8733",
+        "id": "05d23a7f49d2b144",
         "type": "tabs",
         "children": [
           {
-            "id": "f58659cb87260d51",
+            "id": "161d6e49cfee7307",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantitative Aptitude/Time and Work.md",
+                "file": "Question Bank/Time and Work.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantitative Aptitude/Time and Work.md",
+                "file": "Question Bank/Time and Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quantitative Aptitude/Time and Work.md",
+                "file": "Question Bank/Time and Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quantitative Aptitude/Time and Work.md"
+                "file": "Question Bank/Time and Work.md"
               }
             }
           }
@@ -146,16 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f58659cb87260d51",
+  "active": "161d6e49cfee7307",
   "lastOpenFiles": [
+    "Screenshots/Pasted image 20240604224711.png",
+    "Readme.md",
+    "Quantitative Aptitude/Number System.md",
+    "Question Bank/Number System.md",
+    "Question Bank/Time and Work.md",
+    "Quantitative Aptitude/Time and Work.md",
+    "Screenshots/Pasted image 20240604102254.png",
     "Screenshots/Pasted image 20240604094843.png",
     "Screenshots/Pasted image 20240604093408.png",
-    "Quantitative Aptitude/Number System.md",
-    "Readme.md",
     "CAT/Quantitative Aptitude/Basic Arithmetic Skills.md",
     "CAT/Quantitative Aptitude/Geometry and Mensuration Problems.md",
     "Quantitative Aptitude/Basic Arithmetic Skills.md",
-    "Quantitative Aptitude/Time and Work.md",
     "Screenshots/Pasted image 20240601224046.png",
     "Pasted image 20240601114808.png",
     "Screenshots/Pasted image 20240601114808.png",
@@ -183,8 +187,6 @@
     "Verbal Aptitude/Ordering of sentences.md",
     "Verbal Aptitude/One Word Substitutes.md",
     "Verbal Aptitude/Odd one out.md",
-    "Verbal Aptitude/Idioms and Phrases.md",
-    "Verbal Aptitude/Grammars.md",
     "Verbal Aptitude",
     "Question Bank",
     "Quantitative Aptitude",

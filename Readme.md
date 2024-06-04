@@ -18,11 +18,11 @@
 	    - [ ] [[Verbal Aptitude/Vocabulary|Vocabulary]]
 	    - [ ] [[Verbal Aptitude/Verbal Analogies|Verbal Analogies]]
 		- [ ] [[Verbal Aptitude/Synonyms and Antonyms|Synonyms and Antonyms]]
-        - [ ] [[Verbal Aptitude/Idioms and Phrases|Idioms and Phrases]]
-        - [ ] [[Verbal Aptitude/Reading Comprehension|Reading Comprehension]]
+		- [ ] [[Verbal Aptitude/Idioms and Phrases|Idioms and Phrases]]
+		- [ ] [[Verbal Aptitude/Reading Comprehension|Reading Comprehension]]
 1. **Month 2**:
     - QA:
-        - [ ] [[Quantitative Aptitude/Time and Work|Time and Work]]
+        - [x] [[Quantitative Aptitude/Time and Work|Time and Work]]
         - [ ]  [[Quantitative Aptitude/Speed, Time and Distance|Speed, Time and Distance]]
         - [ ] [[Quantitative Aptitude/Percentage|Percentage]]
         - [ ] [[Quantitative Aptitude/Profit and Loss|Profit and Loss]]
@@ -105,7 +105,7 @@
 	-  VA:
 		- [ ] VARC Sectional Test - 1
 		- [ ] VARC Sectional Test - 2
-1. **Month 6**:
+5. **Month 6**:
     - [ ] Start Revision
     - [ ] Solve Past Papers and Practice Mock Tests
     - [ ] Attempt 1 Mock Test Every 2 days

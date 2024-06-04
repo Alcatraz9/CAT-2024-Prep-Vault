@@ -8,8 +8,7 @@ Ex: No of zeroes in 23! = $$\frac{23}{5} = 4 (Ans)$$
 7. Sum of all possible distinct permutations formed by using n distinct integers = $$(n-1)!*\left( \sum allDigits \right)*(11111\dots.n-times)$$
 8.  If a number can be represented as $$N = a^p*b^q*c^r$$ Then number of factors of N =$$(p+1)(q+1)(r+1)$$ **If the number of factors is odd, then N is a perfect square**  
 	 Sum of all factors = $$\frac{a^{p+1}-1}{a-1}*\frac{b^{q+1}-1}{b-1}*\frac{c^{r+1}-1}{c-1}$$ Product of all factors = $$N^{\frac{number\ of\ factors}{2}}$$ Assuming a=2, the number of even factors of N = $$p (1 + q) (1 + r) . . .$$ The number of odd factors of N = $$(1 + q) (1 + r)…$$  
-  
- ![[Pasted image 20240529224055.png]]
+  ![[Pasted image 20240529224055.png]]
 
 9. Suppose a number N and if there are n factors including the number N and 1, then the number of pairs of factors would be n/2. If N is a perfect square, then the number of pairs (including the square root) is (n+1)/2. ![[Pasted image 20240529224308.png]]
 10. **Positive Integral Solutions for the equation X2 - Y2 = N?  (Point 13)** Read more at: [https://edurev.in/t/73536/Important-Formulas-Number-System-CAT-Preparation](https://edurev.in/t/73536/Important-Formulas-Number-System-CAT-Preparation)
