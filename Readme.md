@@ -22,7 +22,7 @@
 		- [ ] [[Verbal Aptitude/Reading Comprehension|Reading Comprehension]]
 1. **Month 2**:
     - QA:
-        - [x] [[Quantitative Aptitude/Time and Work|Time and Work]]
+        - [x] [[Quantitative Aptitude/Time and Work|Time and Work]] *
         - [ ]  [[Quantitative Aptitude/Speed, Time and Distance|Speed, Time and Distance]]
         - [ ] [[Quantitative Aptitude/Percentage|Percentage]]
         - [ ] [[Quantitative Aptitude/Profit and Loss|Profit and Loss]]
@@ -68,14 +68,14 @@
 		- [ ] Practice Test 4
 	- LR:
 		- [ ] [[Logical Reasoning/Series|Series]]
-        - [ ] [[Logical Reasoning/Coding-Decoding|Coding-Decoding]]
-        - [ ] [[Logical Reasoning/Puzzles|Puzzles]]
-        - [ ] [[Logical Reasoning/Binary Logic|Binary Logic]]
-        - [ ] [[Logical Reasoning/Games & Tournaments|Games & Tournaments]]
-        - [ ] [[Logical Reasoning/Generic Puzzles|Generic Puzzles]]
-        - [ ] [[Logical Reasoning/Input Output|Input Output]]
-        - [ ] [[Logical Reasoning/Statement Course of Action|Statement Course of Action]]
-        - [ ] [[Logical Reasoning/Logical Deduction|Logical Deduction]]
+		- [ ] [[Logical Reasoning/Coding-Decoding|Coding-Decoding]]
+		- [ ] [[Logical Reasoning/Puzzles|Puzzles]]
+		- [ ] [[Logical Reasoning/Binary Logic|Binary Logic]]
+		- [ ] [[Logical Reasoning/Games & Tournaments|Games & Tournaments]]
+		- [ ] [[Logical Reasoning/Generic Puzzles|Generic Puzzles]]
+		- [ ] [[Logical Reasoning/Input Output|Input Output]]
+		- [ ] [[Logical Reasoning/Statement Course of Action|Statement Course of Action]]
+		- [ ] [[Logical Reasoning/Logical Deduction|Logical Deduction]]
 	- VA:
 		- [ ] [[Verbal Aptitude/One Word Substitutes|One Word Substitutes]]
 		- [ ] [[Verbal Aptitude/Selecting Words|Selecting Words]]

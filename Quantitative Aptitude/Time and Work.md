@@ -3,4 +3,5 @@
 3. If A, B, C can do a piece of work in x, y, z day respectively then all three can finish the piece of work in $$\frac{xyz}{xy+yz+zx}\ days$$
 4. If A and B together can do a piece of work in x days and A alone can do it in y days, then B can do it alone in $$\frac{xy}{y-x}\ days$$
  **Hint: Always try to calculate according to amount of work done per day (1/days) instead of putting days in equation directly**
-	 
+
+**Note: solve more problems of 2 bodies coming towards each other, find point of contact etc**
