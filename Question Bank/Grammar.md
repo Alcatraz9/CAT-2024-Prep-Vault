@@ -1,0 +1,4 @@
+Imp theory: [[Grammars]]
+![[Pasted image 20240604234906.png]]
+![[Pasted image 20240604235053.png]]
+![[Pasted image 20240604235103.png]]

@@ -2,12 +2,12 @@
 	- Read The Hindu editorial section daily
     - QA (Quantitative Aptitude):
         - [x] [[Quantitative Aptitude/Number System|Number System]]
+        - [x] [[Quantitative Aptitude/Time and Work|Time and Work]] *
         - [ ] [[Quantitative Aptitude/Basic Arithmetic Skills|Basic Arithmetic Skills]]
         - [ ] [[Quantitative Aptitude/Geometry and Mensuration Problems|Geometry and Mensuration Problems]]
-        - [ ]  [[Quantitative Aptitude/Probability|Probability]]
 
 	- Logical Reasoning: 
-		- [ ]  [[Logical Reasoning/Arrangements|Arrangements]]
+		- [ ] [[Logical Reasoning/Arrangements|Arrangements]]
 		- [ ] [[Logical Reasoning/Clock and Calendar|Clock and Calendar]]
 		- [ ] [[Logical Reasoning/Cubes & Dices]]
 		- [ ] [[Logical Reasoning/Rankings|Rankings]]
@@ -19,10 +19,8 @@
 	    - [ ] [[Verbal Aptitude/Verbal Analogies|Verbal Analogies]]
 		- [ ] [[Verbal Aptitude/Synonyms and Antonyms|Synonyms and Antonyms]]
 		- [ ] [[Verbal Aptitude/Idioms and Phrases|Idioms and Phrases]]
-		- [ ] [[Verbal Aptitude/Reading Comprehension|Reading Comprehension]]
 1. **Month 2**:
     - QA:
-        - [x] [[Quantitative Aptitude/Time and Work|Time and Work]] *
         - [ ]  [[Quantitative Aptitude/Speed, Time and Distance|Speed, Time and Distance]]
         - [ ] [[Quantitative Aptitude/Percentage|Percentage]]
         - [ ] [[Quantitative Aptitude/Profit and Loss|Profit and Loss]]
@@ -33,6 +31,7 @@
         - [ ] [[Verbal Aptitude/Sentence Correction|Sentence Correction]]
         - [ ] [[Verbal Aptitude/Syllogism|Syllogism]]
         - [ ] [[Verbal Aptitude/Spotting Errors|Spotting Errors]]
+        - [ ] [[Verbal Aptitude/Reading Comprehension|Reading Comprehension]]
     - LR:
         - [ ] [[Logical Reasoning/Syllogism|Syllogism]]
         - [ ] [[Logical Reasoning/Direction Sense Test|Direction Sense Test]]
@@ -45,6 +44,7 @@
         - [ ] [[Quantitative Aptitude/Progression|Progression]]
         - [ ] [[Quantitative Aptitude/Logarithms|Logarithms]]
         - [ ] [[Quantitative Aptitude/P&C|P&C]]
+        - [ ]  [[Quantitative Aptitude/Probability|Probability]]
         - [ ] [[Quantitative Aptitude/Inequalities|Inequalities]]
         - [ ] [[Quantitative Aptitude/Equations|Equations]]
         - [ ] [[Quantitative Aptitude/Functions|Functions]]
