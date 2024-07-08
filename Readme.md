@@ -13,7 +13,7 @@
 		- [ ] [[Logical Reasoning/Rankings|Rankings]]
 		- [ ] [[Logical Reasoning/Assertion & Reason|Assertion & Reason]]
 	- VA:
-	    - [ ] [[Verbal Aptitude/Grammars|Grammars]]
+	    - [x] [[Verbal Aptitude/Grammars|Grammars]]
 	    - [ ] [[Verbal Aptitude/Grammar Tenses|Grammar Tenses]]
 	    - [ ] [[Verbal Aptitude/Vocabulary|Vocabulary]]
 	    - [ ] [[Verbal Aptitude/Verbal Analogies|Verbal Analogies]]
