@@ -23,9 +23,11 @@
             "id": "de805692019143d4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "Quantitative Aptitude/Percentage.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Quantitative Aptitude/Percentage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "Quantitative Aptitude/Percentage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "Quantitative Aptitude/Percentage.md"
               }
             }
           }
@@ -159,6 +161,12 @@
   },
   "active": "de805692019143d4",
   "lastOpenFiles": [
+    "Screenshots/Pasted image 20240728165105.png",
+    "Screenshots/Pasted image 20240728164344.png",
+    "Screenshots/Pasted image 20240728163306.png",
+    "Screenshots/Pasted image 20240728162922.png",
+    "Screenshots/Pasted image 20240728160900.png",
+    "Quantitative Aptitude.md",
     "Question Bank/Grammar.md",
     "Readme.md",
     "Screenshots/Pasted image 20240605211413.png",
@@ -171,19 +179,14 @@
     "Quantitative Aptitude/Number System.md",
     "Verbal Aptitude.md",
     "Logical Reasoning.md",
-    "Quantitative Aptitude.md",
     "Quantitative Aptitude/Simple and Compound Interests.md",
     "Quantitative Aptitude/Probability.md",
     "Quantitative Aptitude/Time and Work.md",
     "Screenshots/Pasted image 20240604224711.png",
     "Screenshots/Pasted image 20240604102254.png",
-    "Screenshots/Pasted image 20240604094843.png",
-    "Screenshots/Pasted image 20240604093408.png",
     "CAT/Quantitative Aptitude/Basic Arithmetic Skills.md",
     "CAT/Quantitative Aptitude/Geometry and Mensuration Problems.md",
     "Quantitative Aptitude/Basic Arithmetic Skills.md",
-    "Screenshots/Pasted image 20240601224046.png",
-    "Pasted image 20240601114808.png",
     "Screenshots",
     "CAT/Quantitative Aptitude",
     "CAT",
