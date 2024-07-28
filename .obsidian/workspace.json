@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de805692019143d4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "161d6e49cfee7307",
+  "active": "de805692019143d4",
   "lastOpenFiles": [
     "Question Bank/Grammar.md",
     "Readme.md",
