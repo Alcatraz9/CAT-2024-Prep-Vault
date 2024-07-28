@@ -9,3 +9,5 @@ for weighted avg plug in values from given options and check
 Alligation always faster for any mixture problem
 **Mixture of mixtures**
 ![[Pasted image 20240728165105.png]]
+Solutions
+![[Pasted image 20240728173436.png]]
