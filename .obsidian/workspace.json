@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verbal Aptitude/Reading Comprehension.md",
+                "file": "Quantitative Aptitude/Mixtures and Alligations.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verbal Aptitude/Reading Comprehension.md",
+                "file": "Quantitative Aptitude/Mixtures and Alligations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verbal Aptitude/Reading Comprehension.md",
+                "file": "Quantitative Aptitude/Mixtures and Alligations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verbal Aptitude/Reading Comprehension.md"
+                "file": "Quantitative Aptitude/Mixtures and Alligations.md"
               }
             }
           }
@@ -161,9 +161,12 @@
   },
   "active": "de805692019143d4",
   "lastOpenFiles": [
+    "Readme.md",
+    "Quantitative Aptitude/Basic Arithmetic Skills.md",
+    "Quantitative Aptitude/Mixtures and Alligations.md",
+    "Verbal Aptitude/Reading Comprehension.md",
     "Screenshots/Pasted image 20240802133008.png",
     "Screenshots/Pasted image 20240802132952.png",
-    "Quantitative Aptitude/Basic Arithmetic Skills.md",
     "Screenshots/Pasted image 20240802130607.png",
     "Screenshots/Pasted image 20240802130509.png",
     "Screenshots/Pasted image 20240802130134.png",
@@ -173,10 +176,8 @@
     "Screenshots/Pasted image 20240728165105.png",
     "Screenshots/Pasted image 20240728164344.png",
     "Screenshots/Pasted image 20240728163306.png",
-    "Screenshots/Pasted image 20240728162922.png",
     "Quantitative Aptitude.md",
     "Question Bank/Grammar.md",
-    "Readme.md",
     "Verbal Aptitude/Grammars.md",
     "Question Bank/Time and Work.md",
     "Question Bank/Number System.md",
@@ -199,7 +200,6 @@
     "Verbal Aptitude/Spotting Errors.md",
     "Verbal Aptitude/Sentence Improvement.md",
     "Verbal Aptitude/Sentence Formation.md",
-    "Verbal Aptitude/Sentence Correction.md",
     "Verbal Aptitude",
     "Question Bank",
     "Quantitative Aptitude",

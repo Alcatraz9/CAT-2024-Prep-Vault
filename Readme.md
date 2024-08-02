@@ -3,7 +3,7 @@
     - QA (Quantitative Aptitude):
         - [x] [[Quantitative Aptitude/Number System|Number System]]
         - [x] [[Quantitative Aptitude/Time and Work|Time and Work]] *
-        - [ ] [[Quantitative Aptitude/Basic Arithmetic Skills|Basic Arithmetic Skills]]
+        - [x] [[Quantitative Aptitude/Basic Arithmetic Skills|Basic Arithmetic Skills]]
         - [ ] [[Quantitative Aptitude/Geometry and Mensuration Problems|Geometry and Mensuration Problems]]
 
 	- Logical Reasoning: 
@@ -25,13 +25,13 @@
         - [ ] [[Quantitative Aptitude/Percentage|Percentage]]
         - [ ] [[Quantitative Aptitude/Profit and Loss|Profit and Loss]]
         - [ ] [[Quantitative Aptitude/Set theory|Set theory]]
-        - [ ] [[Quantitative Aptitude/Mixtures and Alligations|Mixtures and Alligations]]
+        - [x] [[Quantitative Aptitude/Mixtures and Alligations|Mixtures and Alligations]]
 	- VA:
         - [ ] [[Verbal Aptitude/Paragraph Problems|Paragraph Problems]]
         - [ ] [[Verbal Aptitude/Sentence Correction|Sentence Correction]]
         - [ ] [[Verbal Aptitude/Syllogism|Syllogism]]
         - [ ] [[Verbal Aptitude/Spotting Errors|Spotting Errors]]
-        - [ ] [[Verbal Aptitude/Reading Comprehension|Reading Comprehension]]
+        - [x] [[Verbal Aptitude/Reading Comprehension|Reading Comprehension]]
     - LR:
         - [ ] [[Logical Reasoning/Syllogism|Syllogism]]
         - [ ] [[Logical Reasoning/Direction Sense Test|Direction Sense Test]]
