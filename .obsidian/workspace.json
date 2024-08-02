@@ -25,24 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantitative Aptitude/Percentage.md",
+                "file": "Verbal Aptitude/Reading Comprehension.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "b92f5ba41a8e321c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantitative Aptitude/Percentage.md",
+                "file": "Verbal Aptitude/Reading Comprehension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quantitative Aptitude/Percentage.md",
+                "file": "Verbal Aptitude/Reading Comprehension.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quantitative Aptitude/Percentage.md"
+                "file": "Verbal Aptitude/Reading Comprehension.md"
               }
             }
           }
@@ -169,34 +159,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b92f5ba41a8e321c",
+  "active": "de805692019143d4",
   "lastOpenFiles": [
+    "Screenshots/Pasted image 20240802133008.png",
+    "Screenshots/Pasted image 20240802132952.png",
+    "Quantitative Aptitude/Basic Arithmetic Skills.md",
+    "Screenshots/Pasted image 20240802130607.png",
+    "Screenshots/Pasted image 20240802130509.png",
+    "Screenshots/Pasted image 20240802130134.png",
+    "Screenshots/Pasted image 20240802125151.png",
+    "Quantitative Aptitude/Percentage.md",
     "Screenshots/Pasted image 20240728173436.png",
     "Screenshots/Pasted image 20240728165105.png",
     "Screenshots/Pasted image 20240728164344.png",
     "Screenshots/Pasted image 20240728163306.png",
     "Screenshots/Pasted image 20240728162922.png",
-    "Screenshots/Pasted image 20240728160900.png",
     "Quantitative Aptitude.md",
     "Question Bank/Grammar.md",
     "Readme.md",
-    "Screenshots/Pasted image 20240605211413.png",
     "Verbal Aptitude/Grammars.md",
-    "Screenshots/Pasted image 20240604235103.png",
-    "Screenshots/Pasted image 20240604235053.png",
     "Question Bank/Time and Work.md",
     "Question Bank/Number System.md",
-    "Screenshots/Pasted image 20240604234906.png",
     "Quantitative Aptitude/Number System.md",
     "Verbal Aptitude.md",
     "Logical Reasoning.md",
     "Quantitative Aptitude/Simple and Compound Interests.md",
     "Quantitative Aptitude/Probability.md",
     "Quantitative Aptitude/Time and Work.md",
-    "Screenshots/Pasted image 20240604224711.png",
     "CAT/Quantitative Aptitude/Basic Arithmetic Skills.md",
     "CAT/Quantitative Aptitude/Geometry and Mensuration Problems.md",
-    "Quantitative Aptitude/Basic Arithmetic Skills.md",
     "Screenshots",
     "CAT/Quantitative Aptitude",
     "CAT",
@@ -209,7 +200,6 @@
     "Verbal Aptitude/Sentence Improvement.md",
     "Verbal Aptitude/Sentence Formation.md",
     "Verbal Aptitude/Sentence Correction.md",
-    "Verbal Aptitude/Selecting Words.md",
     "Verbal Aptitude",
     "Question Bank",
     "Quantitative Aptitude",
