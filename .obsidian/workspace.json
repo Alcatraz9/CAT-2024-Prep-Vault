@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de805692019143d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quantitative Aptitude/Speed, Time and Distance.md",
+                "file": "Quantitative Aptitude/Equations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantitative Aptitude/Speed, Time and Distance.md",
+                "file": "Quantitative Aptitude/Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quantitative Aptitude/Speed, Time and Distance.md",
+                "file": "Quantitative Aptitude/Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quantitative Aptitude/Speed, Time and Distance.md"
+                "file": "Quantitative Aptitude/Equations.md"
               }
             }
           }
@@ -160,10 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de805692019143d4",
+  "active": "161d6e49cfee7307",
   "lastOpenFiles": [
-    "Quantitative Aptitude/Mixtures and Alligations.md",
+    "Screenshots/Pasted image 20240829082354.png",
     "Readme.md",
+    "Quantitative Aptitude/Equations.md",
+    "Screenshots/Pasted image 20240829075256.png",
+    "Quantitative Aptitude/Speed, Time and Distance.md",
+    "Quantitative Aptitude/Mixtures and Alligations.md",
     "Quantitative Aptitude/Basic Arithmetic Skills.md",
     "Verbal Aptitude/Reading Comprehension.md",
     "Screenshots/Pasted image 20240802133008.png",
@@ -176,7 +167,6 @@
     "Screenshots/Pasted image 20240728173436.png",
     "Screenshots/Pasted image 20240728165105.png",
     "Screenshots/Pasted image 20240728164344.png",
-    "Screenshots/Pasted image 20240728163306.png",
     "Quantitative Aptitude.md",
     "Question Bank/Grammar.md",
     "Verbal Aptitude/Grammars.md",
@@ -198,9 +188,6 @@
     "Verbal Aptitude/Verbal Analogies.md",
     "Verbal Aptitude/Synonyms and Antonyms.md",
     "Verbal Aptitude/Syllogism.md",
-    "Verbal Aptitude/Spotting Errors.md",
-    "Verbal Aptitude/Sentence Improvement.md",
-    "Verbal Aptitude/Sentence Formation.md",
     "Verbal Aptitude",
     "Question Bank",
     "Quantitative Aptitude",
